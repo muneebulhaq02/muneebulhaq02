@@ -17,25 +17,25 @@ Currently seeking opportunities to gain industry experience through AI/ML intern
 
 ### 🚀 Tech Stack
 
-**Programming Languages**
+Languages
 
- C • C++ • Python
+🟦 Python 🟦 C++ 🟦 C
 
-**Machine Learning & Data Science**
+Machine Learning & Data Science
 
-NumPy • Pandas • Scikit-learn
+🟧 Scikit-learn 🟦 NumPy 🟪 Pandas
 
-**Data Visualization**
+Data Visualization
 
-Matplotlib • Seaborn
+🟩 Matplotlib 🟪 Seaborn
 
-**Databases**
+Databases
 
-Oracle • MongoDB
+🟥 Oracle 🟩 MongoDB
 
-**Tools & Technologies**
+Tools & Platforms
 
-Git • GitHub • VS Code
+⚫ Git ⚫ GitHub 🔵 VS Code
 
 ---
 
