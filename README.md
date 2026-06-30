@@ -5,41 +5,38 @@
 🤖 Aspiring AI & Machine Learning Engineer
 📍 Karachi, Pakistan
 
----
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy solving problems, building intelligent systems, and applying technology to real-world challenges.
 
 Currently seeking opportunities to gain industry experience through AI/ML internships, research projects, and collaborative development.
 
----
+## 🚀 Tech Stack
 
-### 🚀 Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-Languages
+### Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-🟦 Python 🟦 C++ 🟦 C
+### Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-712F9E?style=for-the-badge&logo=python&logoColor=white)
 
-Machine Learning & Data Science
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🟧 Scikit-learn 🟦 NumPy 🟪 Pandas
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Data Visualization
-
-🟩 Matplotlib 🟪 Seaborn
-
-Databases
-
-🟥 Oracle 🟩 MongoDB
-
-Tools & Platforms
-
-⚫ Git ⚫ GitHub 🔵 VS Code
-
----
-
-### 📂 Featured Projects
+## 📂 Featured Projects
 
 🎬 **Graph-Based Movie Recommendation System**
 Built a movie recommendation engine using graph theory and collaborative filtering techniques on the MovieLens dataset.
@@ -53,45 +50,27 @@ Performed data analysis, feature selection, and machine learning model evaluatio
 🌍 **Delhi Air Quality Hazard Classifier**
 Designed an end-to-end machine learning pipeline to classify AQI hazard levels using multiple classification algorithms.
 
----
+## 🏆 Achievements
 
-### 🏆 Achievements
+- 🏅 Dean's List (4 Semesters)
+- 🏅 Top 20 — PROCOM Competitive Programming Competition
+- 🏅 High Achiever — A-Levels
+- 🏅 DataCamp Certifications
+  - AI-Assisted Coding for Developers
+  - Introduction to Data Science
 
-🏅 Dean's List (4 Semesters)
+## 📚 Currently Learning
 
-🏅 Top 20 — PROCOM Competitive Programming Competition
+🧠 Machine Learning 🤖 Artificial Intelligence 📊 Data Science
 
-🏅 High Achiever — A-Levels
-
-🏅 DataCamp Certifications
-
-* AI-Assisted Coding for Developers
-* Introduction to Data Science
-
----
-
-### 📚 Currently Learning
-
-🧠 Machine Learning
-
-🤖 Artificial Intelligence
-
-📊 Data Science
-
-### 🎯 Interests
+## 🎯 Interests
 
 Artificial Intelligence • Machine Learning • Data Science • Problem Solving
 
----
-
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 📧 [muneebulhaq02@gmail.com](mailto:muneebulhaq02@gmail.com)
+💼 LinkedIn: [linkedin.com/in/muneeb-ul-haq02](https://linkedin.com/in/muneeb-ul-haq02)
+🐙 GitHub: [github.com/muneebulhaq02](https://github.com/muneebulhaq02)
 
-💼 LinkedIn: linkedin.com/in/muneeb-ul-haq02
-
-🐙 GitHub: github.com/muneebulhaq02
-
----
-
-*"Turning data into insights and ideas into intelligent solutions."*
+> "Turning data into insights and ideas into intelligent solutions."
