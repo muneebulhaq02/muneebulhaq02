@@ -65,7 +65,7 @@ Designed an end-to-end machine learning pipeline to classify AQI hazard levels u
 
 ## 🎯 Interests
 
-Artificial Intelligence • Machine Learning • Data Science • Problem Solving
+Artificial Intelligence • Machine Learning • Data Science
 
 ## 🤝 Let's Connect
 
